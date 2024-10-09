@@ -1,2 +1,5 @@
 # modules-in-terraform
-applying modules to my terraform code
+Applying modules to my terraform code
+
+## project description
+Deploying a Jenkins server using Custom Modules in Terraform.
